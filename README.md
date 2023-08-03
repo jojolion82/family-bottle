@@ -17,8 +17,16 @@ familyーbottle
 - 通知機能：新しいボトルやコメントが投稿された際に、メール通知を受け取ることができます。
 
 ## インストールとセットアップ
+- このリポジトリをクローンします。
+- 必要なGemをインストール
+- bundle install
+- rails db:create
+- rails db:migrate
+- rails s
+- ブラウザでhttp://localhost:3000にアクセスします。
 
-使用技術
+
+# 使用技術
 Ruby on Rails
 HTML, CSS, JavaScript
 PostgreSQL (データベース)
