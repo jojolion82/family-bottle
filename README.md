@@ -23,7 +23,7 @@ familyーbottle
 - rails db:create
 - rails db:migrate
 - rails s
-- ブラウザでhttp://localhost:3000にアクセスします。
+- ブラウザでhttp://localhost:3000 にアクセスします。
 
 
 # 使用技術
